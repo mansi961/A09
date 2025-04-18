@@ -4,7 +4,7 @@
     padding: 0;
   }
   html {
-    background-color: white;
+    background-color: #800000;
   }
   body {
     font-family: Arial, Helvetica, sans-serif;
@@ -12,7 +12,7 @@
     width: 600px;
     margin: 0 auto;
     border: 3px solid #931420;
-    background-color: #fffded;
+    background-color: white;
   }
   a:focus,
   a:hover {
