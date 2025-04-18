@@ -185,25 +185,6 @@
   top: 35px;
   left: 0;
   list-style: none;
-  background-color: jam red;
-  padding: 10px;
-  border: 1px solid #ccc;
-}
-
-.nav-menu li:hover .dropdown {
-  display: block;
-}
-
-.nav-menu .dropdown li {
-  margin: 5px 0;
-}
-
-.nav-menu .dropdown {
-  display: none;
-  position: absolute;
-  top: 35px;
-  left: 0;
-  list-style: none;
   background-color: #931420; /* jam red approximation */
   padding: 10px;
   border: 1px solid #ccc;
@@ -212,3 +193,9 @@
 .nav-menu .dropdown a {
   color: white; /* white text */
 }
+
+.nav-menu .dropdown li {
+  margin: 5px 0;
+}
+
+
