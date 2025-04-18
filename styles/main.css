@@ -4,7 +4,7 @@
   padding: 0;
 }
 html {
-  background-color: #800000; /* Jam red background */
+  background-color: #800000; /* Jam red */
 }
 body {
   font-family: Arial, Helvetica, sans-serif;
@@ -18,14 +18,14 @@ body {
 a:focus,
 a:hover {
   font-style: italic;
-  color: #ffd6d6; /* Light hover for contrast */
+  color: #ffd6d6;
 }
 
 /* the styles for the header */
 header {
   padding: 1.5em 0 2em 0;
   border-bottom: 3px solid #931420;
-  background-color: #660000; /* Darker jam red for contrast */
+  background-color: #660000; /* A darker jam red for variation */
   color: white;
 }
 header h2 {
@@ -42,7 +42,7 @@ header img {
   padding: 0 30px;
 }
 .shadow {
-  text-shadow: 2px 2px 2px #000000;
+  text-shadow: 2px 2px 2px #000;
 }
 
 /* the styles for the main content */
@@ -99,7 +99,7 @@ article h3 {
 /* the styles for the aside */
 #about {
   padding: 1rem;
-  background-color: #990000;
+  background-color: #990000; /* deep red */
   color: white;
   border-top: 2px solid #fff;
 }
@@ -117,7 +117,7 @@ aside img {
 
 /* the styles for the footer */
 footer {
-  background-color: #660000;
+  background-color: #931420;
 }
 footer p {
   text-align: center;
